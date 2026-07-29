@@ -14,8 +14,8 @@ This repo is primarily for **high schoolers** to find, participate, and get expo
       <th width="25%">Name</th>
       <th width="50%">Short Description</th>
       <th width="10%">Format</th>
-      <th width="10%">Participation</th>
-      <th width="5%">Link</th>
+      <th width="5%">Participation</th>
+      <th width="10%">Link</th>
     </tr>
   </thead>
   <tbody>
