@@ -11,11 +11,11 @@ This repo is primarily for **high schoolers** to find, participate, and get expo
 <table>
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Short Description</th>
-      <th>Format</th>
-      <th>Participation</th>
-      <th>Link</th>
+      <th width="15%">Name</th>
+      <th width="55%">Short Description</th>
+      <th width="10%">Format</th>
+      <th width="10%">Participation</th>
+      <th width="10%">Link</th>
     </tr>
   </thead>
   <tbody>
