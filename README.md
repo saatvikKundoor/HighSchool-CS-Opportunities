@@ -29,5 +29,5 @@ This repo is primarily for **high schoolers** to find, participate, and get expo
 ## ☀️ Summer Programs
 
 | **Name** | **Short Description** | **Format** | **Grade Level** | **Cost** | **Deadline** | **Link** |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | 
 | **RSI** | A highly selective, tuition-free summer research program hosted at MIT where students complete an independent STEM research project under the guidance of a mentor. | In-Person | 11 | Free | `January` | [Link](https://www.cee.org/programs/research-science-institute) |
