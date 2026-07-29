@@ -1,8 +1,15 @@
 # High School Computer Science Opportunities
 
-This repo is primarily for **high schoolers** to find, participate, and get exposed to the **computer science opportunities** available to them. Use this to find summer programs, competitions, internships, and more. 
+This repo is primarily for **high schoolers** to find, participate, and get exposed to the **computer science opportunities** available to them. Use this to find summer programs, competitions, internships, and more!
 
-**🙏 I would love any contributions! See the contributing guidelines [here](./CONTRIBUTING.md)🙏**
+**🙏 I would love any contributions! See the contributing guidelines [here](./CONTRIBUTING.md) 🙏**
+
+---
+
+## 📑 Table of Contents
+- [🏆 Competitions](#-competitions)
+- [☀️ Summer Programs](#️-summer-programs)
+- [💼 Internships](#-internships)
 
 ---
 
@@ -17,3 +24,10 @@ This repo is primarily for **high schoolers** to find, participate, and get expo
 | **American Computer Science League** | The American Computer Science League (ACSL) hosts programming competitions for high school students, focusing on algorithmic problem-solving and computer science skills. | Online | Team | 9–12 | Paid | [Link](https://www.acsl.org/about) |
 
 
+---
+
+## ☀️ Summer Programs
+
+| **Name** | **Short Description** | **Format** | **Grade Level** | **Cost** | **Deadline** | **Link** |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **RSI** | A highly selective, tuition-free summer research program hosted at MIT where students complete an independent STEM research project under the guidance of a mentor. | In-Person | 11 | Free | `January` | [Link](https://www.cee.org/programs/research-science-institute) |
