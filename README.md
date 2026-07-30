@@ -2,7 +2,7 @@
 
 This repo is primarily for **high schoolers** to find, participate, and get exposed to the **computer science opportunities** available to them. Use this to find summer programs, competitions, internships, and more!
 
-**🙏 I would love any contributions! See the contributing guidelines [here](./CONTRIBUTING.md) 🙏**
+**🙏 Feel free to contribute! See the contributing guidelines [here](./CONTRIBUTING.md) 🙏**
 
 ---
 
@@ -22,6 +22,7 @@ This repo is primarily for **high schoolers** to find, participate, and get expo
 | **Congressional App Challenge** | A national competition for high school students to create and submit innovative apps that address real-world problems; winners get recognition at Capital Hill | Online | Team | 9–12 | Free | [Link](https://www.congressionalappchallenge.us/) |
 | **Wharton High School Data Science Competition** | An international competition for high school students where teams analyze fictional sports data to make and present on predicted outcomes, performance stats, data visualizations, etc. | Online | Team | 9–12 | Free | [Link](https://wsb.wharton.upenn.edu/wharton-data-competition/) |
 | **American Computer Science League** | The American Computer Science League (ACSL) hosts programming competitions for high school students, focusing on algorithmic problem-solving and computer science skills. | Online | Team | 9–12 | Paid | [Link](https://www.acsl.org/about) |
+| **Imagine Cup** | A global technology competition organized by Microsoft, encouraging students to create innovative solutions that address real-world challenges in various categories, including software development and artificial intelligence. | Online | Team | 9-12 | Free | [Link](https://imaginecup.microsoft.com/en-us) |
 
 
 ---
