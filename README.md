@@ -23,7 +23,7 @@ This repo is primarily for **high schoolers** to find, participate, and get expo
 | **Wharton High School Data Science Competition** | An international competition for high school students where teams analyze fictional sports data to make and present on predicted outcomes, performance stats, data visualizations, etc. | Online | Team | 9–12 | Free | [Link](https://wsb.wharton.upenn.edu/wharton-data-competition/) |
 | **American Computer Science League** | The American Computer Science League (ACSL) hosts programming competitions for high school students, focusing on algorithmic problem-solving and computer science skills. | Online | Team | 9–12 | Paid | [Link](https://www.acsl.org/about) |
 | **Imagine Cup** | A global technology competition organized by Microsoft, encouraging students to create innovative solutions that address real-world challenges in various categories, including software development and artificial intelligence. | Online | Team | 9-12 | Free | [Link](https://imaginecup.microsoft.com/en-us) |
-
+| **Cyber Patriot Competition** | The CyberPatriot competition challenges high school students to protect virtual networks and systems from cyber threats. Participants work on cybersecurity scenarios and compete in team-based events. | Online | Team | 9-12 | Free | [Link](https://www.uscyberpatriot.org/competition-overview/) |
 
 ---
 
