@@ -24,6 +24,7 @@ This repo is primarily for **high schoolers** to find, participate, and get expo
 | **American Computer Science League** | The American Computer Science League (ACSL) hosts programming competitions for high school students, focusing on algorithmic problem-solving and computer science skills. | Online | Team | 9–12 | Paid | [Link](https://www.acsl.org/about) |
 | **Imagine Cup** | A global technology competition organized by Microsoft, encouraging students to create innovative solutions that address real-world challenges in various categories, including software development and artificial intelligence. | Online | Team | 9-12 | Free | [Link](https://imaginecup.microsoft.com/en-us) |
 | **Cyber Patriot Competition** | The CyberPatriot competition challenges high school students to protect virtual networks and systems from cyber threats. Participants work on cybersecurity scenarios and compete in team-based events. | Online | Team | 9-12 | Free | [Link](https://www.uscyberpatriot.org/competition-overview/) |
+| **Samsung Solve for Tomorrow** | The Samsung Solve for Tomorrow competition asks students to consider STEM can be used to create change in their communities competing to win up to $100,000 in prizes for their school.| Online | Team | 9-12 | Free | [Link](https://www.samsung.com/us/solvefortomorrow/) |
 
 ---
 
