@@ -38,9 +38,9 @@ This repo is primarily for **high schoolers** to find, participate, and get expo
 
 **Important Note: As high schoolers, there are programs that you pay for to get internships, unpaid internships, and internships that actually pay you.**
 **To show the difference, follow this key:**
-**$ -> : Pays you**
-**- : Unpaid**
-**$ <- : Costs money**
+- **$ -> : Pays you**
+- **-- : Unpaid**
+- **$ <- : Costs money**
 
 | **Name** | **Short Description** | **Format** | **Grade Level** | **Paid?** | **Deadline** | **Link** |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: |
