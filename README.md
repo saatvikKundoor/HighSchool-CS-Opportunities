@@ -45,3 +45,4 @@ This repo is primarily for **high schoolers** to find, participate, and get expo
 | **Name** | **Short Description** | **Format** | **Grade Level** | **Paid?** | **Deadline** | **Link** |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Stanford AIMI** | Stanford's AIMI is a fully virtual, project-based research internship for students interested in exploring how AI is developed, evaluated, and applied in healthcare. | Online | 9-12 | $ <- | `February` | [Link](https://aimi.stanford.edu/education/summer-research-internship) |
+| **ASU Cybersecurity Internship** | This internship program at Arizona State University offers students the chance to gain hands-on research experience in cybersecurity. Participants will work alongside PHD students in the field developing skills in real-world scenarios while contributing to important projects. | In-person | 11-12 | $ -> | `TBD` | [Link](https://ctf.asu.edu/education/internship/) |
