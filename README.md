@@ -31,3 +31,17 @@ This repo is primarily for **high schoolers** to find, participate, and get expo
 | **Name** | **Short Description** | **Format** | **Grade Level** | **Cost** | **Deadline** | **Link** |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | 
 | **RSI** | A highly selective, tuition-free summer research program hosted at MIT where students complete an independent STEM research project under the guidance of a mentor. | In-Person | 11 | Free | `January` | [Link](https://www.cee.org/programs/research-science-institute) |
+
+---
+
+## 💼 Internships
+
+**Important Note: As high schoolers, there are programs that you pay for to get internships, unpaid internships, and internships that actually pay you.**
+**To show the difference, follow this key:**
+**$ -> : Pays you**
+**- : Unpaid**
+**$ <- : Costs money**
+
+| **Name** | **Short Description** | **Format** | **Grade Level** | **Paid?** | **Deadline** | **Link** |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
+| **Stanford AIMI** | Stanford's AIMI is a fully virtual, project-based research internship for students interested in exploring how AI is developed, evaluated, and applied in healthcare. | Online | 9-12 | $ <- | `February` | [Link](https://aimi.stanford.edu/education/summer-research-internship) |
