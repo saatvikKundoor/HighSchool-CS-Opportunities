@@ -9,7 +9,7 @@
 > [!IMPORTANT]
 > This repo is exclusively for **high schoolers** to find, participate, and get exposed to the **computer science opportunities** available to them. 
 
-This list is curated directly for high schoolers. Most opportunities and opportunity lists are directed at college students, but there lacks any single list directly for high schoolers, causing many to miss out on opportunities that could've greatly helped there early-stage careers and to get started in their high school career! Use this to find summer programs, competitions, internships, and more!
+This list is curated directly for high schoolers. Most opportunities and opportunity lists are directed at college students, but there lacks any single list directly for high schoolers, causing many to miss out on opportunities that could've greatly helped their early-stage careers and to get started in their high school career! Use this to find summer programs, competitions, internships, and more!
 
 > [!WARNING]
 > This repo **does not** contain resources for college students and above, and there are **limited (but still available)** opportunities for rising college freshmen
