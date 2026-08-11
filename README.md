@@ -36,7 +36,7 @@ This repo is primarily for **high schoolers** to find, participate, and get expo
 | **Kode with Klossy Camps** | A series of 2-week coding-intensive camps designed for students of traditionally underrepresented genders in the STEM fields, aiming to teach students the fundamentals of coding.| Online | 9-12 | Free | `April` | [Link](https://www.kodewithklossy.com/camp) |
 | **Microsoft Discovery Program** | During this 4-week internship, Discoverers will have the opportunity to gain hands on project experience, develop professional skills while gaining mentorship from Microsoft employees. | In-Person | 12 | Free | `February` | [Link](https://careers.microsoft.com/v2/global/en/discoveryprogram) |
 | **SciSynth Summer Camp** | Participants will learn about Agentic AI, Data Analytics, and Internet of Things (IOT), in tandem with seeing how these fields are transforming research, industry, and everyday life. | In-Person | 9-12 | $200 | `May` | [Link](https://arctic.gsu.edu/scisynth-2026/) |
-
+| **Raikes School Summer Camp** | Innovate: The Raikes School Way is designed to provide students with a foundation in core programming concepts, and is ideal for students with little to no computing experience. | In-Person | 11-12 | $2k-3k | `May` | [Link](https://raikes.unl.edu/summer-camp/) |
 ---
 
 ## 💼 Internships
