@@ -38,6 +38,7 @@ This repo is primarily for **high schoolers** to find, participate, and get expo
 | **SciSynth Summer Camp** | Participants will learn about Agentic AI, Data Analytics, and Internet of Things (IOT), in tandem with seeing how these fields are transforming research, industry, and everyday life. | In-Person | 9-12 | $200 | `May` | [Link](https://arctic.gsu.edu/scisynth-2026/) |
 | **Raikes School Summer Camp** | Innovate: The Raikes School Way is designed to provide students with a foundation in core programming concepts, and is ideal for students with little to no computing experience. | In-Person | 11-12 | $2k-3k | `May` | [Link](https://raikes.unl.edu/summer-camp/) |
 | **SCU:BA UChicago** | High school students will be mentored by UChicago undergraduates in areas of computer science including introductions to the following technologies: Python, HTML, CSS, and Flask. | In-Person | 9-12 | Free | `May` | [Link](https://scuba.cs.uchicago.edu/) |
+| **Girls Who Code Pathways** | Pathways offers curriculum tracks in game design, data science, AI, cybersecurity, and web development for 7 weeks, offering sessions in the Summer and Fall. | Online | 9-12 | Free | `April/August` | [Link](https://girlswhocode.com/programs/pathways) |
 
 ---
 
@@ -53,4 +54,3 @@ This repo is primarily for **high schoolers** to find, participate, and get expo
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Stanford AIMI** | Stanford's AIMI is a fully virtual, project-based research internship for students interested in exploring how AI is developed, evaluated, and applied in healthcare. | Online | 9-12 | $ <- | `February` | [Link](https://aimi.stanford.edu/education/summer-research-internship) |
 | **ASU Cybersecurity Internship** | This internship program at Arizona State University offers students the chance to gain hands-on research experience in cybersecurity. Participants will work alongside PHD students in the field developing skills in real-world scenarios while contributing to important projects. | In-person | 11-12 | $ -> | `TBD` | [Link](https://ctf.asu.edu/education/internship/) |
-| **AI4ALL ** | This internship program at Arizona State University offers students the chance to gain hands-on research experience in cybersecurity. Participants will work alongside PHD students in the field developing skills in real-world scenarios while contributing to important projects. | In-person | 11-12 | $ -> | `TBD` | [Link](https://ctf.asu.edu/education/internship/) |
