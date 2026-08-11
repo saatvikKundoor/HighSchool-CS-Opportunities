@@ -1,5 +1,10 @@
+<div align="center">
+
 # High School Computer Science Opportunities
 
+### The only opportunity list built purely for high schoolers
+
+</div>
 This repo is primarily for **high schoolers** to find, participate, and get exposed to the **computer science opportunities** available to them. Use this to find summer programs, competitions, internships, and more!
 
 **🙏 Feel free to contribute! See the contributing guidelines [here](./CONTRIBUTING.md) 🙏**
@@ -10,6 +15,8 @@ This repo is primarily for **high schoolers** to find, participate, and get expo
 - [🏆 Competitions](#-competitions)
 - [☀️ Summer Programs](#️-summer-programs)
 - [💼 Internships](#-internships)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -56,3 +63,17 @@ This repo is primarily for **high schoolers** to find, participate, and get expo
 | **Stanford AIMI** | Stanford's AIMI is a fully virtual, project-based research internship for students interested in exploring how AI is developed, evaluated, and applied in healthcare. | Online | 9-12 | $ <- | `February` | [Link](https://aimi.stanford.edu/education/summer-research-internship) |
 | **ASU Cybersecurity Internship** | This internship program at Arizona State University offers students the chance to gain hands-on research experience in cybersecurity. Participants will work alongside PHD students in the field developing skills in real-world scenarios while contributing to important projects. | In-person | 11-12 | $ -> | `TBD` | [Link](https://ctf.asu.edu/education/internship/) |
 | **Lockheed Martin Space Internship** | Lockheed Martin Space’s High School Internship Program is designed to give students the opportunity to work with aerospace scientists and engineers, where you’ll spend 9+ weeks during the summer working on world-changing projects and defense tech that help our customers stay ahead of ready.  | In-person | 10-12 | $ -> | `January` | [Link](https://www.lockheedmartin.com/en-us/careers/candidates/students-early-careers/high-school.html#lockheed-martin-space-high-school-internships) |
+
+---
+
+## Contributing
+
+Please check [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting an opportunity, fixing an issue, or contributing in any way!
+
+This repo is welcome to and encourages contributions! I'd greatly appreciate contributions of any kind.
+
+---
+
+## Acknowledgements
+
+This repo was inpsired by [underclassmen-opportunities](https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities) and [Summer2027-Internships](http://github.com/SimplifyJobs/Summer2027-Internships).
