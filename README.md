@@ -39,6 +39,7 @@ This repo is primarily for **high schoolers** to find, participate, and get expo
 | **Raikes School Summer Camp** | Innovate: The Raikes School Way is designed to provide students with a foundation in core programming concepts, and is ideal for students with little to no computing experience. | In-Person | 11-12 | $2k-3k | `May` | [Link](https://raikes.unl.edu/summer-camp/) |
 | **SCU:BA UChicago** | High school students will be mentored by UChicago undergraduates in areas of computer science including introductions to the following technologies: Python, HTML, CSS, and Flask. | In-Person | 9-12 | Free | `May` | [Link](https://scuba.cs.uchicago.edu/) |
 | **Girls Who Code Pathways** | Pathways offers curriculum tracks in game design, data science, AI, cybersecurity, and web development for 7 weeks, offering sessions in the Summer and Fall. | Online | 9-12 | Free | `April/August` | [Link](https://girlswhocode.com/programs/pathways) |
+| **SMASH Academy** | SMASH Residential is a 1-year, intensive CS-focused program that empowers students to deepen their talents and pursue CS careers, immersing them in tuition-free studies in partnership with leading universities throughout the country for one summer. | In-Person | 10-11 | Free | `March` | [Link](https://www.smash.org/programs/) |
 
 ---
 
