@@ -79,7 +79,8 @@ This list is curated directly for high schoolers. Most opportunities and opportu
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | **Amazon Future Engineer** | The Amazon Future Engineer Scholarship supports students from underserved communities pursuing computer science degrees with up to $10,000 per year for four years and a paid summer internship at Amazon. | $40k | 12 | `January`| [Link](https://www.amazonfutureengineer.com/scholarships) |
 | **Hyundai Women in STEM** | Hyundai seeks those who persevere, ask, “Why not?” and dare to make a difference. In 500 words or less, tell us how, as a woman in STEM, you’ll redefine convention by doing things differently, more efficiently. We want you to succeed—and hopefully even consider working with us one day. | $10k | 12 | `June`| [Link](https://www.tun.com/scholarships/the-hyundai-women-in-stem-scholarship/) |
-
+| **Stantec Future Leaders** | Each year, Stantec will award $200K in global scholarships - plus up to 10 paid internships - to students pursuing a Bachelor's or Technical/Vocational degree in science, technology, engineering, arts/architecture and mathematics (STEAM) fields. | $1.5k - $10k | 12 | `October`| [Link](https://www.stantec.com/en/about/community-engagement/stantec-future-leaders-scholarship) |
+---
 
 ## Contributing
 
