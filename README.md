@@ -34,6 +34,8 @@ This repo is primarily for **high schoolers** to find, participate, and get expo
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | 
 | **RSI** | A highly selective, tuition-free summer research program hosted at MIT where students complete an independent STEM research project under the guidance of a mentor. | In-Person | 11 | Free | `January` | [Link](https://www.cee.org/programs/research-science-institute) |
 | **Kode with Klossy Camps** | A series of 2-week coding-intensive camps designed for students of traditionally underrepresented genders in the STEM fields, aiming to teach students the fundamentals of coding.| Online | 9-12 | Free | `April` | [Link](https://www.kodewithklossy.com/camp) |
+| **Microsoft Discovery Program** | During this 4-week internship, Discoverers will have the opportunity to gain hands on project experience, develop professional skills while gaining mentorship from Microsoft employees. | In-Person | 12 | Free | `February` | [Link](https://careers.microsoft.com/v2/global/en/discoveryprogram) |
+
 
 ---
 
@@ -49,3 +51,4 @@ This repo is primarily for **high schoolers** to find, participate, and get expo
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Stanford AIMI** | Stanford's AIMI is a fully virtual, project-based research internship for students interested in exploring how AI is developed, evaluated, and applied in healthcare. | Online | 9-12 | $ <- | `February` | [Link](https://aimi.stanford.edu/education/summer-research-internship) |
 | **ASU Cybersecurity Internship** | This internship program at Arizona State University offers students the chance to gain hands-on research experience in cybersecurity. Participants will work alongside PHD students in the field developing skills in real-world scenarios while contributing to important projects. | In-person | 11-12 | $ -> | `TBD` | [Link](https://ctf.asu.edu/education/internship/) |
+| **AI4ALL ** | This internship program at Arizona State University offers students the chance to gain hands-on research experience in cybersecurity. Participants will work alongside PHD students in the field developing skills in real-world scenarios while contributing to important projects. | In-person | 11-12 | $ -> | `TBD` | [Link](https://ctf.asu.edu/education/internship/) |
