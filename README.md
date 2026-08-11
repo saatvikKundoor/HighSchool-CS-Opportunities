@@ -5,7 +5,9 @@
 ### The only opportunity list built purely for high schoolers
 
 </div>
-This repo is primarily for **high schoolers** to find, participate, and get exposed to the **computer science opportunities** available to them. Use this to find summer programs, competitions, internships, and more!
+
+> [!IMPORTANT]
+> This repo is primarily for **high schoolers** to find, participate, and get exposed to the **computer science opportunities** available to them. Use this to find summer programs, competitions, internships, and more!
 
 **🙏 Feel free to contribute! See the contributing guidelines [here](./CONTRIBUTING.md) 🙏**
 
