@@ -22,6 +22,7 @@ This list is curated directly for high schoolers. Most opportunities and opportu
 - [🏆 Competitions](#-competitions)
 - [☀️ Summer Programs](#️-summer-programs)
 - [💼 Internships](#-internships)
+- [💸 Scholarships](#-scholarships)
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 
@@ -72,6 +73,12 @@ This list is curated directly for high schoolers. Most opportunities and opportu
 | **Lockheed Martin Space Internship** | Lockheed Martin Space’s High School Internship Program is designed to give students the opportunity to work with aerospace scientists and engineers, where you’ll spend 9+ weeks during the summer working on world-changing projects and defense tech that help our customers stay ahead of ready.  | In-person | 10-12 | $ -> | `January` | [Link](https://www.lockheedmartin.com/en-us/careers/candidates/students-early-careers/high-school.html#lockheed-martin-space-high-school-internships) |
 
 ---
+
+## 💸 Scholarships
+| **Name** | **Short Description** | **Amount** | **Grade Level** | **Deadline** | **Link** |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| **Amazon Future Engineer** | The Amazon Future Engineer Scholarship supports students from underserved communities pursuing computer science degrees with up to $10,000 per year for four years and a paid summer internship at Amazon. | $40k | 12 | `January`| [Link](https://www.amazonfutureengineer.com/scholarships) |
+
 
 ## Contributing
 
