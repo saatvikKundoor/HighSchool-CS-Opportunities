@@ -61,6 +61,7 @@ This list is curated directly for high schoolers. Most opportunities and opportu
 | **World Coders Academy** | World Coders Academy is a two-week course introducing high school students ages 15-18 to high-level concepts in computer science, and is designed and taught by a world-leading instructor. | Online | 9-12 | $2k-3k | `Rolling` | [Link](https://www.worldscholarsacademy.com/courses/computer-science/world-coders-academy) |
 | **Noble Desktop Coding Classes** | Noble Desktop offers coding classes for high school students, providing a comprehensive introduction to topics like computer science principles, python, javascript, and more! | Online & In-Person| 9-12 | $1k-4k | `Rolling` | [Link](http://nobledesktop.com/topics/coding-summer-classes#interactive-training) |
 | **Inventors Lab: AI and Machine Learning** | A workshop that offers an introduction to the fundamentals of machine learning, a field also known as artificial intelligence. Participants will delve into the inner workings of machine learning by developing real-world applications. | In-Person| 9-12 | $720 | `Rolling` | [Link](https://cooper.edu/engineering/stem/saturdays) |
+| **Delta Code Intensive** | This is a technical, project-based accelerator designed for high school students looking to transition from coding theory to real-world application, offering four pathways: App Development, Game Development, Web Development, or Data Science | Online| 9-12 | $2k | `Rolling` | [Link](https://www.deltainstitute.co/deltalaunch/delta-code-intensive) |
 
 ---
 
