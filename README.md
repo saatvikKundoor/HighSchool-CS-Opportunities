@@ -5,7 +5,7 @@
 ### The only opportunity list built purely for high schoolers
 
 [![Stars](https://badgen.net/github/stars/saatvikKundoor/HighSchool-CS-Opportunities?label=Stars&color=FFD700&labelColor=000000)](https://github.com/saatvikKundoor/HighSchool-CS-Opportunities/stargazers)
-[![Last Updated](https://badgen.net/github/last-commit/saatvikKundoor/HighSchool-CS-Opportunities?label=Last%20Updated&color=00C853&labelColor=000000)](https://github.com/saatvikKundoor/HighSchool-CS-Opportunities/commits/main)
+[![Last Updated](https://badgen.net/github/last-commit/saatvikKundoor/HighSchool-CS-Opportunities?label=Last%20Updated&color=00C853&labelColor=000000)](https://github.com/saatvikKundoor/HighSchool-CS-Opportunities/commits)
 
 </div>
 
@@ -59,6 +59,7 @@ This list is curated directly for high schoolers. Most opportunities and opportu
 | **Girls Who Code Pathways** | Pathways offers curriculum tracks in game design, data science, AI, cybersecurity, and web development for 7 weeks, offering sessions in the Summer and Fall. | Online | 9-12 | Free | `April/August` | [Link](https://girlswhocode.com/programs/pathways) |
 | **SMASH Academy** | SMASH Residential is a 1-year, intensive CS-focused program that empowers students to deepen their talents and pursue CS careers, immersing them in tuition-free studies in partnership with leading universities throughout the country for one summer. | In-Person | 10-11 | Free | `March` | [Link](https://www.smash.org/programs/) |
 | **World Coders Academy** | World Coders Academy is a two-week course introducing high school students ages 15-18 to high-level concepts in computer science, and is designed and taught by a world-leading instructor. | Online | 9-12 | $2k-3k | `Rolling` | [Link](https://www.worldscholarsacademy.com/courses/computer-science/world-coders-academy) |
+| **Noble Desktop Coding Classes** | Noble Desktop offers coding classes for high school students, providing a comprehensive introduction to topics like computer science principles, python, javascript, and more! | Online & In-Person| 9-12 | $1k-4k | `Rolling` | [Link](http://nobledesktop.com/topics/coding-summer-classes#interactive-training) |
 
 ---
 
