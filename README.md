@@ -4,7 +4,7 @@
 
 ### The only opportunity list built purely for high schoolers
 
-[![Stars](https://badgen.net/github/stars/saatvikKundoor/HighSchool-CS-Opportunities?label=Stars&color=FFD700&labelColor=000000)](https://github.com/saatvikKundoor/HighSchool-CS-Opportunities/stargazers)
+[![Stars](https://img.shields.io/github/stars/saatvikKundoor/HighSchool-CS-Opportunities?maxAge=3600&color=FFD700&labelColor=000000)](https://github.com/saatvikKundoor/HighSchool-CS-Opportunities/stargazers)
 [![Last Updated](https://img.shields.io/github/last-commit/saatvikKundoor/HighSchool-CS-Opportunities?maxAge=3600)](https://github.com/saatvikKundoor/HighSchool-CS-Opportunities/commits)
 
 </div>
