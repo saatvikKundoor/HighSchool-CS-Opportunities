@@ -58,6 +58,7 @@ This list is curated directly for high schoolers. Most opportunities and opportu
 | **SCU:BA UChicago** | High school students will be mentored by UChicago undergraduates in areas of computer science including introductions to the following technologies: Python, HTML, CSS, and Flask. | In-Person | 9-12 | Free | `May` | [Link](https://scuba.cs.uchicago.edu/) |
 | **Girls Who Code Pathways** | Pathways offers curriculum tracks in game design, data science, AI, cybersecurity, and web development for 7 weeks, offering sessions in the Summer and Fall. | Online | 9-12 | Free | `April/August` | [Link](https://girlswhocode.com/programs/pathways) |
 | **SMASH Academy** | SMASH Residential is a 1-year, intensive CS-focused program that empowers students to deepen their talents and pursue CS careers, immersing them in tuition-free studies in partnership with leading universities throughout the country for one summer. | In-Person | 10-11 | Free | `March` | [Link](https://www.smash.org/programs/) |
+| **World Coders Academy** | World Coders Academy is a two-week course introducing high school students ages 15-18 to high-level concepts in computer science, and is designed and taught by a world-leading instructor. | Online | 10-11 | $2k-3k | `Rolling` | [Link](https://www.worldscholarsacademy.com/courses/computer-science/world-coders-academy) |
 
 ---
 
