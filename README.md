@@ -62,7 +62,7 @@ This list is curated directly for high schoolers. Most opportunities and opportu
 | **Noble Desktop Coding Classes** | Noble Desktop offers coding classes for high school students, providing a comprehensive introduction to topics like computer science principles, python, javascript, and more! | Online & In-Person| 9-12 | $1k-4k | `Rolling` | [Link](http://nobledesktop.com/topics/coding-summer-classes#interactive-training) |
 | **Inventors Lab: AI and Machine Learning** | A workshop that offers an introduction to the fundamentals of machine learning, a field also known as artificial intelligence. Participants will delve into the inner workings of machine learning by developing real-world applications. | In-Person| 9-12 | $720 | `Rolling` | [Link](https://cooper.edu/engineering/stem/saturdays) |
 | **Delta Code Intensive** | This is a technical, project-based accelerator designed for high school students looking to transition from coding theory to real-world application, offering four pathways: App Development, Game Development, Web Development, or Data Science | Online| 9-12 | $2k | `Rolling` | [Link](https://www.deltainstitute.co/deltalaunch/delta-code-intensive) |
-
+| **ARISE (NYU)** | ARISE is a free 10-week summer program that combines foundational training with hands-on research experience.  Participants work in over 80 NYU research labs, assisting faculty and researchers on real-world projects. | In-Person| 11-12 | Free | `February` | [Link](https://k12stem.engineering.nyu.edu/programs/arise#ProgramDescription) |
 ---
 
 ## 💼 Internships
