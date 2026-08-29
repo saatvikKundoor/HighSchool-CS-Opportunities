@@ -43,6 +43,7 @@ This list is curated directly for high schoolers. Most opportunities and opportu
 | **Imagine Cup** | A global technology competition organized by Microsoft, encouraging students to create innovative solutions that address real-world challenges in various categories, including software development and artificial intelligence. | Online | Team | 12 | Free | [Link](https://imaginecup.microsoft.com/en-us) |
 | **Cyber Patriot Competition** | The CyberPatriot competition challenges high school students to protect virtual networks and systems from cyber threats. Participants work on cybersecurity scenarios and compete in team-based events. | Online | Team | 9-12 | Free | [Link](https://www.uscyberpatriot.org/competition-overview/) |
 | **Samsung Solve for Tomorrow** | The Samsung Solve for Tomorrow competition asks students to consider STEM can be used to create change in their communities competing to win up to $100,000 in prizes for their school.| Online | Team | 9-12 | Free | [Link](https://www.samsung.com/us/solvefortomorrow/) |
+| **NASA Space Apps Challenge** | The annual NASA Space Apps Challenge provides the opportunity to engage directly with NASA’s data, along with Space Agency Partner data to address challenges written by NASA Subject Matter Experts, featuring topics including storytelling, software development, astrophysics, space exploration, agriculture, and more.| Online/In-Person | Team | 9-12 | Free | [Link](https://www.spaceappschallenge.org/2026/) |
 
 ---
 
