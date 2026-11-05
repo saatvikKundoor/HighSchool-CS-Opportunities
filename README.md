@@ -104,6 +104,7 @@ This list is curated directly for high schoolers. Most opportunities and opportu
 | **Name** | **Provider** | **Short Description** | **Level** | **Format** | **Cost** | **Link** |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: |
 | **General Intro to Programming** | MIT OpenCourseWare | These set of courses sourced directly form MIT curriculum introduce principles of computer science and begin to develop programming skills, specifically in the Python language | Beginner | Asynchronous | Free | [Link](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/) | 
+| **CS50: Introduction to Computer Science** | Harvard University | Harvard University's introduction to the art of programming, teaching students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. | Beginner | Asynchronous | Free | [Link](https://pll.harvard.edu/course/cs50-introduction-computer-science) | 
 
 
 ---
