@@ -108,7 +108,7 @@ This list is curated directly for high schoolers. Most opportunities and opportu
 | **Stanford Code In Place** | Stanford University | The course teaches the fundamentals of computer programming using the widely-used Python programming language, straight from Stanford's flagship course CS106A. This course features weekly projects, and culminates with a independent project of your own using what you've learned!| Beginner | Asynchronous | Free | [Link](https://codeinplace.stanford.edu/) | 
 | **Python for Beginners** | freeCodeCamp | In this comprehensive course, you'll learn the fundamentals of Python programming from the ground up. You'll start with basic concepts like variables and data types, progress through control flow and functions, and build projects to practice what you've learned.| Beginner | Asynchronous | Free | [Link](https://www.freecodecamp.org/learn/learn-python-for-beginners) | 
 | **Computer Basics** | freeCodeCamp | Get comfortable with the fundamental tools and concepts that power modern web development. Through interactive theory lessons, reviews, and quizzes, you will master computer hardware, file system organization, internet service providers, and effective web browsing.| Beginner | Asynchronous | Free | [Link](https://www.freecodecamp.org/learn/computer-basics) | 
-
+| **Basic HTML** | freeCodeCamp | This course introduces you to HyperText Markup Language, teaching you how to structure and build web pages from scratch using essential elements. Through interactive workshops, labs, tand lessons, you will gain practical coding experience by creating real projects.| Beginner | Asynchronous | Free | [Link](https://www.freecodecamp.org/learn/basic-html) | 
 
 ---
 
