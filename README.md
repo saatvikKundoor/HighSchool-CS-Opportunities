@@ -71,15 +71,15 @@ This list is curated directly for high schoolers. Most opportunities and opportu
 
 **Important Note: As high schoolers, there are programs that you pay for to get internships, unpaid internships, and internships that actually pay you.**
 **To show the difference, follow this key:**
-- **$ -> : Pays you**
-- **-- : Unpaid**
-- **$ <- : Costs money**
+- **✅ Paid : Pays you**
+- **⚠️ Unpaid : Unpaid**
+- **💸 Pay-to-participate : Costs money**
 
 | **Name** | **Short Description** | **Format** | **Grade Level** | **Paid?** | **Deadline** | **Link** |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Stanford AIMI** | Stanford's AIMI is a fully virtual, project-based research internship for students interested in exploring how AI is developed, evaluated, and applied in healthcare. | Online | 9-12 | $ <- | `February` | [Link](https://aimi.stanford.edu/education/summer-research-internship) |
-| **ASU Cybersecurity Internship** | This internship program at Arizona State University offers students the chance to gain hands-on research experience in cybersecurity. Participants will work alongside PhD students in the field developing skills in real-world scenarios while contributing to important projects. | In-person | 11-12 | $ -> | `TBD` | [Link](https://ctf.asu.edu/education/internship/) |
-| **Lockheed Martin Space Internship** | Lockheed Martin Space’s High School Internship Program is designed to give students the opportunity to work with aerospace scientists and engineers, where you’ll spend 9+ weeks during the summer working on world-changing projects and defense tech that help our customers stay ready.  | In-person | 10-12 | $ -> | `January` | [Link](https://www.lockheedmartin.com/en-us/careers/candidates/students-early-careers/high-school.html#lockheed-martin-space-high-school-internships) |
+| **Stanford AIMI** | Stanford's AIMI is a fully virtual, project-based research internship for students interested in exploring how AI is developed, evaluated, and applied in healthcare. | Online | 9-12 | 💸 | `February` | [Link](https://aimi.stanford.edu/education/summer-research-internship) |
+| **ASU Cybersecurity Internship** | This internship program at Arizona State University offers students the chance to gain hands-on research experience in cybersecurity. Participants will work alongside PhD students in the field developing skills in real-world scenarios while contributing to important projects. | In-person | 11-12 | ✅ | `TBD` | [Link](https://ctf.asu.edu/education/internship/) |
+| **Lockheed Martin Space Internship** | Lockheed Martin Space’s High School Internship Program is designed to give students the opportunity to work with aerospace scientists and engineers, where you’ll spend 9+ weeks during the summer working on world-changing projects and defense tech that help our customers stay ready.  | In-person | 10-12 | ✅ | `January` | [Link](https://www.lockheedmartin.com/en-us/careers/candidates/students-early-careers/high-school.html#lockheed-martin-space-high-school-internships) |
 
 ---
 
