@@ -125,6 +125,7 @@ This list is curated directly for high schoolers. Most opportunities and opportu
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: |
 | **USACO Guide** | Competitive Programming Initiative | A free, organized roadmap of tutorials and practice problems that takes competitors from USACO Bronze to Platinum and beyond, written by top USACO contestants. It is not an official syllabus and is not affiliated with USACO. | Intermediate | Asynchronous | Free | [Link](https://usaco.guide/) |
 | **CS50's Introduction to Artificial Intelligence with Python** | Harvard University | Harvard's introduction to the concepts and algorithms behind modern AI, including graph search, machine learning, and reinforcement learning, taught through hands-on Python projects. Runs about 7 weeks at 10-30 hours per week and expects CS50x or prior Python experience. | Intermediate | Asynchronous | Free | [Link](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python) |
+| **The Missing Semester of Your CS Education** | MIT CSAIL | A free course teaching the practical tools that most CS classes skip, including the command line, shell scripting, Vim, Git, and data wrangling, with lecture videos, notes, and exercises. | Intermediate | Asynchronous | Free | [Link](https://missing.csail.mit.edu/) |
 
 ---
 
